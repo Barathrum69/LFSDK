@@ -1,0 +1,82 @@
+/* ●底部导航(tabBar) */
+"com_tabBar_home"="首页";             // 首页
+"com_tabBar_benefits"="优惠";         // 优惠
+"com_tabBar_customer"="客服";         // 客服
+"com_tabBar_sponsor"="赞助";          // 赞助
+"com_tabBar_mine"="我的";             // 我的
+
+/* ●导航条(navigationBar) */
+"nav_rightItem_save"="保存";          // 保存
+"nav_rightItem_edit"="编辑";          // 编辑
+"nav_rightItem_done"="完成";          // 完成
+"nav_rightItem_search"="搜索";        // 搜索
+"nav_rightItem_cancel"="取消";        // 取消
+"nav_rightItem_news"="消息";          // 消息
+"nav_leftItem_close"="关闭";          // 关闭
+"nav_leftItem_back"="返回";           // 返回
+"nav_rightItem_submit"="提交";        // 提交
+"nav_rightItem_more"="更多";          // 更多
+"nav_rightItem_send"="发送";          // 发送
+
+/* ●按钮标题 button titles */
+"button_echat_ignore"="忽略";            //忽略
+"button_login"="登录";                //登录
+"button_register"="注册";             //注册
+"button_logout"="退出登录";            //退出登录
+"button_comfirm_change"="确认修改";    //确认修改 --》修改密码界面
+
+"button_cart_delete"="删除";           // 购物车删除
+"button_cart_delete_num"="删除(%d)";   // 删除(%d)
+"button_cart_checkout"="结算";         // 购物车结算
+//"button_cart_checkout_zero"="结算(0)";       // 结算(0)
+"button_cart_checkout_count"="结算(%d)";     // 结算(%d)
+"button_cart_allselect"="全选";        // 购物车全选
+"button_cart_comfirm"="确认";          // 购物车确认
+"button_cart_edit"="编辑";             // 购物车编辑
+
+"button_recharge"="充值";                  // 充值
+"button_pay_immediately"="立即支付";       // 立即支付
+"button_deals_search"="搜索";             // 交易的宝贝-订单搜索
+"button_after_sale"="申请售后";            // 申请售后
+"button_confirm_to_submit"="确认提交";     // 确认提交 商品、运单
+"button_translate_origin"="中";
+"button_translate_translate"="En";
+
+/* ●按钮标题 Alertview (与alertView 有关的一切)*/
+"alert_comfirm"="确认";       // alertview 确认
+"alert_cancel"="取消";        // alertview 取消
+"alert_title"="温馨提示";      // alertview 标题 “温馨提示”
+"alert_is_cancel"="您确认要取消吗？";        // 您确认要取消吗？
+"alert_is_delete"="您确定要删除吗？";      // 您确定要删除吗？
+"alert_sure"="确定";
+"alert_important"="重要提示";
+"alert_show_detail"="查看详情"; // 查看详情
+
+
+/* ●native errors */
+"error_network"="网络连接失败，请检测您的网络状况";   // 无网络情况
+"error_load_failed"="加载失败";// 加载失败
+"error_server_request_failed"="服务器请求失败";// 服务器请求失败
+"error_network_connection"="网络连接错误";// 网络连接错误
+"error_data_processing"="数据解析出现了问题！";// 数据解析出现了问题！
+"error_network_error"="网络错误";// 网络错误
+"error_server_error"="数据请求失败，请重试";// 服务器出错
+"error_request_timeout"="数据加载超时，请重试";// 请求超时
+"error_network_proxy_no"="无网络";// 无网络
+"error_network_proxy_cellier"="移动网络";// 移动网络
+"error_network_proxy_wifi"="WIFI网络";// WIFI网络
+"error_network_proxy_environment"="当前网络环境是";// 当前网络环境是
+"error_network_available"="网络畅通";// 网络畅通
+"error_server_error_default_text"="操作失败，请检查网络后重试";
+"error_page_title"="出错了";
+"error_page_no_data"="抱歉，没有数据";
+
+
+"hintMsg_no_more"="没有更多了";
+"hintMsg_refresh_more"="加载更多";  // 下拉加载更多
+"hintMsg_reload"="重新加载";// 重新加载
+"hintMsg_click_to_reload"="点击重新加载";// 点击屏幕重新加载
+
+
+"business_no_remind"="不再提醒";                  // 不再提醒
+"business_i_know"="我知道了";                     // 我知道了

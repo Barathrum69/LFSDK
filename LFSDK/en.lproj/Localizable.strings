@@ -1,0 +1,56 @@
+/* ●底部导航(tabBar) */
+"com_tabBar_home"="Home";           // 首页
+"com_tabBar_benefits"="Benefits";   // 优惠
+"com_tabBar_customer"="Customer";   // 客服
+"com_tabBar_sponsor"="Sponsor";     // 赞助
+"com_tabBar_mine"="Me";             // 我的
+
+/* ●导航条(navigationBar) */
+"nav_rightItem_save"="Save";        // 保存
+"nav_rightItem_edit"="Edit";        // 编辑
+"nav_rightItem_done"="Done";        // 完成
+"nav_rightItem_search"="Search";    // 搜索
+"nav_rightItem_cancel"="Cancel";    // 取消
+"nav_rightItem_news"="News";        //消息
+"nav_leftItem_close"="Close";       // 关闭
+"nav_leftItem_back"="Back";         // 返回
+"nav_rightItem_submit"="Submit";    // 提交
+"nav_rightItem_more"="More";        // 更多
+"nav_rightItem_send"="Send";        // 发送
+
+/* ●按钮标题 Alertview (与alertView 有关的一切)*/
+"alert_comfirm"="Confirm";    // alertview 确认
+"alert_cancel"="Cancel";      // alertview 取消
+"alert_title"="Reminder";     // alertview 标题 “温馨提示”
+"alert_is_cancel"="Do you confirm to cancel?";      // 您确认要取消吗？
+"alert_is_delete"="Do you confirm to delete?";      // 您确定要删除吗？
+"alert_sure"="Confirm";
+"alert_important"="Important Notice";
+
+
+/* ●native errors */
+"error_network"="Error, please check network";     // 无网络情况
+"error_load_failed"="Load failure";                // 加载失败
+"error_server_request_failed"="Server request failed";// 服务器请求失败
+"error_network_connection"="Network connection error";// 网络连接错误
+"error_data_processing"="Data processing error";// 数据解析出现了问题！
+"error_network_error"="Network error";// 网络错误
+"error_server_error"="Server error, Please retry";// 服务器出错
+"error_request_timeout"="Request time out";// 请求超时
+"error_network_proxy_no"="No network";// 无网络
+"error_network_proxy_cellier"="Mobile Network";// 移动网络
+"error_network_proxy_wifi"="WIFI Network";// WIFI网络
+"error_network_proxy_environment"="Current network is";// 目前的网络环境是
+"error_network_available"="Network available";// 网络畅通
+"error_server_error_default_text"="Operation Failure. Please check your network connection.";      // "操作失败，请检查网络后重试";
+"error_page_title"="Error"; // 出错了
+"error_page_no_data"="Sorry, No more data";
+
+
+"hintMsg_no_more"="End of Page";                    // 没有更多数据  No more
+"hintMsg_refresh_more"="Load more";             // 下拉加载更多
+"hintMsg_reload"="Reload";                         // 重新加载
+"hintMsg_click_to_reload"="Touch to reload";// 点击重新加载
+
+"business_no_remind"="Close";                 // 不再提醒
+"business_i_know"="I understand";                   // 我知道了
